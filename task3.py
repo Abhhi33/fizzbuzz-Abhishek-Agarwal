@@ -18,8 +18,13 @@ for i in dict_check1:
 	else:
 		fr1.write()
 for i in dict_check2:
-	if i in frc.word():
+	if i in fr2.word():
 	else:
-		fre.word()
+		fr=2.word()
+for i in dict_check3:
+	if i in fr2.word():
+	else:	
+		fr3.write()
+
 
 	
