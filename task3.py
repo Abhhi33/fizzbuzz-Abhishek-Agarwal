@@ -1,3 +1,4 @@
+
 fread=open('book1.txt','r')
 fread=open('book2.txt','r')
 fread =open('book3.txt','r')
@@ -12,3 +13,13 @@ for i in fr2.readlines():
 	dict_check2.append(i.split(""))
 for i in fr3.readlines():
 	dict_check3.append(i.split(""))
+for i in dict_check1:
+	if i in frc.word():
+	else:
+		fr1.write()
+for i in dict_check2:
+	if i in frc.word():
+	else:
+		fre.word()
+
+	
