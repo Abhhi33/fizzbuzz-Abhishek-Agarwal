@@ -1,4 +1,5 @@
-def input():
+
+def input_option():
 	target_file=input("book1,book2,book3...:")
 	check=0	
 	if target_file="book1":
@@ -11,6 +12,13 @@ def input():
 	elif:
 		target_file=input("Please enrter the valid input")
 		checked
-	input_page(fr_
+	input_page(fr)
+
 input option()
-	
+
+def input_page(fr):
+	fw=open("Newfile.txt","w")
+	count=0 
+	pagestart= input("enter the starting page number")
+	pagend=input("enter the last page number")
+			
